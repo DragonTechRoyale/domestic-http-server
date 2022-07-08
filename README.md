@@ -2,7 +2,7 @@
 an http server that can show the cover of the best manga ever, among other things
 
 # To run:
-`sh
+`
 python3 main.py
 `
 
