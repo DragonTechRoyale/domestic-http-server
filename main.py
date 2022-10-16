@@ -5,7 +5,7 @@ import os
 
 HEADER = 64
 PORT = 8000
-SERVER = '127.0.0.1'
+SERVER = socket.gethostbyname(socket.gethostname())
 AADR = (SERVER, PORT)
 FORMAT = 'utf-8'
 
